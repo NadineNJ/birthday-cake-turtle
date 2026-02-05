@@ -1,30 +1,31 @@
 🎂 Birthday Cake Drawing with Python
 
-Un projet Python qui utilise Turtle pour dessiner un gâteau d'anniversaire coloré avec des couches, des bougies et des décorations, et Pygame pour jouer une mélodie d’anniversaire 🎵.
+A Python project that uses Turtle to draw a colorful birthday cake with layers, candles, and decorations, and Pygame to play a birthday melody 🎵.
 
-🛠 Technologies utilisées
+🛠 Technologies Used
 - Python
-- Turtle 🖌
-- Pygame 🎶
+- Turtle 
+- Pygame 
 
 📖 Description
-Ce script crée un gâteau d’anniversaire graphique avec :
-- Plusieurs couches colorées
-- Bougies sur le gâteau   
-- Décorations et toppings   
-- Un cercle festif avec le texte "Happy Birthday" 
-- Une mélodie d’anniversaire   
+This script creates a graphical birthday cake with:
+- Multiple colorful layers  
+- Candles on the cake   
+- Decorations and toppings 
+- A festive circle with the text "Happy Birthday"
+- A birthday melody
 
-⚙️ Fonctionnalités principales
-- `draw_layer_of_the_cake` : Dessine une couche du gâteau
-- `draw_toppings_on_cake` : Ajoute des décorations/toppings
-- `draw_candle_for_cake` : Dessine une bougie
-- `draw_stick_on_candle` : Dessine la mèche de la bougie
-- `draw_circle_on_top_of_stick` : Dessine un cercle festif
-- `write_happy_inside_circle` et `write_birthday_inside_circle` : Écrit du texte dans le cercle
+⚙️ Main Features
+- `draw_layer_of_the_cake` : Draws a cake layer
+- `draw_toppings_on_cake` : Adds decorations/toppings
+- `draw_candle_for_cake` : Draws a candle
+- `draw_stick_on_candle` : Draws the candle wick/stick
+- `draw_circle_on_top_of_stick` : Draws a festive circle
+- `write_happy_inside_circle` and `write_birthday_inside_circle` : Writes text inside the circle
 
 🏃‍♂️ Instructions
-1. Installer Python 3.x
-2. Installer Pygame :  
+1. Install Python 3.x
+2. Install Pygame:  
    ```bash
    pip install pygame
+
